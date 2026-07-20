@@ -1,0 +1,6 @@
+{
+  "name": "Apex Racer",
+  "description": "Native 3D arcade racing game with custom pseudo-3D canvas engine, car customization, drift mechanics, police chases, and dynamic weather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
